@@ -4,10 +4,11 @@ import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
   DiPython,
   DiGit,
   DiJava,
+  DiRuby,
+  DiRor,
 } from "react-icons/di";
 import {
   SiPostgresql,
@@ -23,10 +24,13 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <DiRuby />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiRor />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
