@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.055944ae.css",
+    "main.js": "/static/js/main.71a59f33.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.cb93a92595944722596c.jpg",
+    "static/media/about.png": "/static/media/about.3e1cbb7bb0c9b2e68728.png",
+    "static/media/02_Ridham Patel_CV_18_July_23.pdf": "/static/media/02_Ridham Patel_CV_18_July_23.cf247a8b601b707f93e6.pdf",
+    "static/media/React_Bank.png": "/static/media/React_Bank.db097f44c3a3f3bbbdca.png",
+    "static/media/ROR_Bank.png": "/static/media/ROR_Bank.bac872d1bf755156a40e.png",
+    "static/media/Job_Portal.png": "/static/media/Job_Portal.66dbf16aa12804eff664.png",
+    "static/media/home-main.svg": "/static/media/home-main.d1a1766eebca24d5c3aba6121cb90054.svg",
+    "static/media/avatar.svg": "/static/media/avatar.9d2613a043bb2f45b804a46b5e5edbdd.svg",
+    "static/media/pre.svg": "/static/media/pre.4103ef31227c1bd3681b.svg",
+    "index.html": "/index.html",
+    "main.055944ae.css.map": "/static/css/main.055944ae.css.map",
+    "main.71a59f33.js.map": "/static/js/main.71a59f33.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.055944ae.css",
+    "static/js/main.71a59f33.js"
+  ]
+}
