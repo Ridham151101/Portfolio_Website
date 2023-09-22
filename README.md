@@ -7,7 +7,7 @@
 
 This is my personal portfolio website built using React. It showcases my projects, skills, and provides information about me.
 
-You can visit the website here: [Link to Portfolio Website](https://your-website-url.com)
+You can visit the website here: [Link to Portfolio Website](https://ridhampatel.vercel.app/resume)
 
 This project was built using these technologies.
 
