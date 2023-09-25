@@ -8,14 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ridham Patel </span>
-            from <span className="purple"> Surat, Gujarat, India.</span>
-            <br /> I am a software engineer at bacancy technology company which is located in Ahmedabad.
+            Hello, I'm <span className="purple">Ridham Patel </span>
+            a Software Engineer based in <span className="purple"> Surat, Gujarat, India.</span>
+            <br /> I currently work at Bacancy Technology in Ahmedabad.
             <br />
-            Additionally, I am working as a post maker at 2 hospitals.
+            Additionally, I also serve as a content creator for two hospitals.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Beyond coding, I have a passion for:
           </p>
           <ul>
             <li className="about-activity">
@@ -30,7 +30,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#5b99f5" }}>
-            "Strive to build things that make a difference!"{" "}
+            "My mission is to create impactful solutions."{" "}
           </p>
           <footer className="blockquote-footer">Ridham</footer>
         </blockquote>
