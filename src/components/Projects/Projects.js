@@ -33,7 +33,7 @@ function Projects() {
               imgPath={RorBank}
               isBlog={false}
               title="Banking Management System (ROR)"
-              description="The Banking Management System is a web application built with Ruby on Rails 6 that facilitates the management of customer accounts and transactions in a banking setting."
+              description="The Banking Management System is a web application built with Ruby on Rails 6 that facilitates the management of customer accounts, transactions and more in a banking setting."
               ghLink="https://github.com/Ridham151101/Banking-Management-System"
             />
           </Col>

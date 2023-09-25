@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -18,33 +18,24 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I am a dedicated software developer with a deep passion for programming.
               <br />
-              <br />I am fluent in classics like
+              <br />My journey in the world of technology has equipped me with a strong command of programming languages such as
               <i>
                 <b className="purple"> C++, Ruby and Javascript. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My professional focus lies in the realm of &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple">web technology and product development. </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              I have honed my expertise in this domain, enabling me to deliver innovative solutions that cater to the demands of modern digital landscapes.
+              <br />
+              <br />
+              I welcome you to explore my portfolio, where you can discover a showcase of my work and accomplishments. Each project reflects my commitment to excellence and my dedication to pushing the boundaries of what is possible in the world of web development.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
